@@ -6,7 +6,8 @@ A view-by-view walkthrough of the Power BI dashboard, with a screenshot followed
 
 ## 1. Home
 
-![Home](screenshots/home.png)
+![Home](<img width="1377" height="798" alt="Screenshot 2026-09-14 180721" src="https://github.com/user-attachments/assets/1e93ff5b-02d8-4dc9-83d2-b979fbdeff46" />
+)
 
 The landing page of the dashboard. It provides navigation tiles into each of the six functional views:
 
